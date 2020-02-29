@@ -1,0 +1,21 @@
+My associate id:
+844416
+Other team members:
+844255, 844254, 844244
+Team lead:
+844254
+My Role in team:
+1. To develop models,services and navsidebar  
+My development files:
+1. user.model.ts
+2.user.service.ts
+3. navsidebar.component.html
+4.navsidebar.component.css
+
+I was strong in:
+1.Reactive forms and Validations
+2. Documentation
+I was weak in:
+1. HttpClient 
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
